@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "588204254844",
+    "project_id": "bayn-79bcd",
+    "storage_bucket": "bayn-79bcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588204254844:android:4004248eab1270d95bcbf9",
+        "android_client_info": {
+          "package_name": "com.example.Bayn_Ads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588204254844-3hrtilru30a3iva0vfc4lig68oindcfh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH0Ly_insXrrF3Fm2gKq4Vz6juPZR6eAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588204254844-3hrtilru30a3iva0vfc4lig68oindcfh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "588204254844-8uhpak9j6g7esnipio9gurbdgojc9eb8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.asim.bayn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
